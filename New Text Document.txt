@@ -7,3 +7,6 @@ this is method 4
 Method 5{
 this is method 5
 }
+Method 6{
+this is method 6
+}
